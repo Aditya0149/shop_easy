@@ -2,7 +2,8 @@
  "creds": [
    {
      "id":"0000000000",
-     "password":"000"
+     "password":"000",
+    "name":"Sitaram"
    }
  ],
   "Groceries" : [
