@@ -236,5 +236,27 @@
      "id":"0000000000",
      "password":"000"
    }
- ]
+ ],
+  "Groceries" : [
+    {
+      "item":"pen",
+      "prize":"20",
+      "unit":""
+    },
+    {
+      "item":"suger",
+      "prize":"30",
+      "unit":"kg"
+    },
+    {
+      "item":"milk",
+      "prize":"20",
+      "unit":"litre"
+    },
+    {
+      "item":"notebook",
+      "prize":"25",
+      "unit":""
+    }
+  ]
 }
